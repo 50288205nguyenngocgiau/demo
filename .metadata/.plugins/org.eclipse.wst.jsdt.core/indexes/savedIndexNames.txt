@@ -1,0 +1,7 @@
+INDEX VERSION 1.4+D:\Cá nhân\FUNIX\webdong\demo\.metadata\.plugins\org.eclipse.wst.jsdt.core\indexes
+2500957813.index
+3242290322.index
+2410516003.index
+505357275.index
+263504357.index
+341357334.index

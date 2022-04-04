@@ -1,0 +1,8 @@
+package deployments;
+
+public class TextOutput {
+	public String getInfo() {
+		return "output infomation";
+	}
+
+}
